@@ -20,4 +20,4 @@
 1. Клонировать репозиторий:
 ```bash
 git clone <ваш-репозиторий>
-cd verstka
+cd flutter
