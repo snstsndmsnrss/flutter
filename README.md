@@ -19,5 +19,5 @@
 ### Шаги запуска
 1. Клонировать репозиторий:
 ```bash
-git clone <ваш-репозиторий>
+git clone <you repo>
 cd flutter
